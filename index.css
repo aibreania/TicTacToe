@@ -1,0 +1,45 @@
+h1 {
+       text-align: center;
+       font-family: Verdana;
+       color: red;
+      }
+        
+
+.Square {
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            font-size: 18pt;
+            font-weight: bold;
+            font-family: Verdana;
+        }
+
+
+table {
+  margin-top: 50px;
+  margin-left: 642px;
+  color: purple;
+}
+
+#message {
+  text-align: center;
+  margin-top: 35px;
+  color: purple;
+  font-weight: bold;
+  font-family: Tahoma;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Tahoma;
+  margin-left: 627px;
+}
+
+h5 {
+  text-align: right;
+  font-family: Verdana;
+  color: grey;
+  margin-bottom: 40px;
+}
